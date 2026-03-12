@@ -5,3 +5,4 @@ b = 12
 res = a + b
 sub = a - b
 print(res)
+print(sub)
