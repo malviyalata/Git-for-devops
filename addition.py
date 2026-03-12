@@ -3,4 +3,5 @@ b = 12
 
 # Adding two numbers
 res = a + b
+sub = a - b
 print(res)
